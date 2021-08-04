@@ -1,0 +1,3 @@
+C:/Users/zener/CLionProjects/Lesson-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zener/CLionProjects/Lesson-2/cmake-build-debug/CMakeFiles/Lesson_2.dir
+C:/Users/zener/CLionProjects/Lesson-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
